@@ -26,6 +26,10 @@
         <div>First div</div>
     </module-two>
 
+    <module-three>
+        <div>div two</div>
+        <div>div three</div>
+    </module-three>
     
 </body>
 </html>
