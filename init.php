@@ -16,3 +16,8 @@
 </body>
 </html>
 
+<?php
+ if(isset($_POST['submit'])){
+     echo "Submition";
+ }
+?>
