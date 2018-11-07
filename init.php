@@ -22,15 +22,14 @@
         </ul>
     </module-one>
 
-     <module-two>
+    <module-two>
         <div>First div</div>
     </module-two>
-
     <module-three>
-        <div>div two</div>
-        <div>div three</div>
-    </module-three>
-    
+        <div>Second div</div>
+        <div>Third div</div>
+    <module-three>
+
 </body>
 </html>
 
