@@ -27,7 +27,6 @@
         <div>Second div</div>
     </module-two>
 
-    
 </body>
 </html>
 
