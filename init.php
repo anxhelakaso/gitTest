@@ -33,7 +33,8 @@
     <module-four>
         <ul>
             <li>Contact</li>
-            <li>Privacy</li>
+            <li>Privacy Policy</li>
+            <li>Cookie</li>
         </ul>
     </module-four>
 
