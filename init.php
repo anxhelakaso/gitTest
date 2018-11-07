@@ -31,6 +31,13 @@
         <div>Third div</div>
     <module-three>
     
+    <module-four>
+        <ul>
+            <li>Contact</li>
+            <li>Privacy Policy</li>
+            <li>Cookie</li>
+        </ul>
+    </module-four>
    
 
 </body>
