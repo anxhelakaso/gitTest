@@ -15,7 +15,10 @@
     </form>
     <module-one>
         <ul>
-            <li>List element</li>
+            <li>Menu</li>
+            <li>Home</li>
+            <li>About us</li>
+            <li>Help</li>
         </ul>
     </module-one>
 
