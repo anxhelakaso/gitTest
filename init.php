@@ -31,7 +31,6 @@
         <div>Third div</div>
     <module-three>
     
-<<<<<<< HEAD
     <module-four>
         <ul>
             <li>Contact</li>
@@ -39,9 +38,7 @@
             <li>Cookie</li>
         </ul>
     </module-four>
-=======
    
->>>>>>> master
 
 </body>
 </html>
