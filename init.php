@@ -24,9 +24,11 @@
 
     <module-two>
         <div>First div</div>
+    </module-two>
+    <module-three>
         <div>Second div</div>
         <div>Third div</div>
-    </module-two>
+    <module-three>
 
 </body>
 </html>
