@@ -23,7 +23,8 @@
     </module-one>
 
     <module-two>
-        <div>This is new div</div>
+        <div>First div</div>
+        <div>Second div</div>
     </module-two>
 
     
