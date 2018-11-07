@@ -22,6 +22,10 @@
         </ul>
     </module-one>
 
+     <module-two>
+        <div>First div</div>
+    </module-two>
+
     
 </body>
 </html>
