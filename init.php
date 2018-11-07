@@ -16,7 +16,3 @@
 </body>
 </html>
 
-<?php
-    if(isset($_POST['submit']))
-        echo "form was submited";
-?>
