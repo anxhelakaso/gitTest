@@ -34,7 +34,7 @@
     <module-four>
         <ul>
             <li>Contact</li>
-            <li>Privacy Policy</li>
+            <li>Privacy</li>
             <li>Cookie</li>
         </ul>
     </module-four>
