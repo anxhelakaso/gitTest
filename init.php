@@ -25,11 +25,13 @@
     <module-two>
         <div>First div</div>
     </module-two>
+    
     <module-three>
         <div>Second div</div>
         <div>Third div</div>
     <module-three>
     
+<<<<<<< HEAD
     <module-four>
         <ul>
             <li>Contact</li>
@@ -37,6 +39,9 @@
             <li>Cookie</li>
         </ul>
     </module-four>
+=======
+   
+>>>>>>> master
 
 </body>
 </html>
