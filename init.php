@@ -19,9 +19,7 @@
         </ul>
     </module-one>
 
-    <module-two>
-        <div>This is new div</div>
-    </module-two>
+    
 </body>
 </html>
 
